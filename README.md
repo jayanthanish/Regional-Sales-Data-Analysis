@@ -8,6 +8,9 @@ This project is an **Exploratory Data Analysis (EDA)** focused on understanding 
 
 Explore the interactive Power BI dashboard showcasing the analysis and key insights:
 
+![image](https://github.com/user-attachments/assets/8ee634b6-72d6-4dd1-9122-05c02592d8f2)
+
+
 [**View Live Regional Sales Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiMjA0NDA3YTMtMjk5Mi00YjI2LWJhMmItODgwNWJlNDAzNTdhIiwidCI6IjllZjlmNDg5LWUwYTAtNGVlYi04N2NjLTNhNTI2MTEyZmQwZCIsImMiOjF9)
 
 ## How I Have Done This (Development Process)
